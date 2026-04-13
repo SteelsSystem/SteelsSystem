@@ -4,6 +4,21 @@
 ---
 
 ```
+        ███   ███
+      █████ █████
+    █████████████
+   ███ ███████ ███
+  █████  ███  █████
+  ███   █████   ███
+   █████     █████
+    █████████████
+      █████ █████
+        ███   ███
+```
+
+---
+
+```
 SYSTEM = {
   id:      "SteelsSystem",
   engine:  "CRYPTO-LINGUISTIC INTEGRITY v10.1",
@@ -16,4 +31,4 @@ SYSTEM = {
 }
 ```
 
-> *system on system — condensed to convergence point*
+> *what you see in the code is what the code sees in you*
