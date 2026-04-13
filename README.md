@@ -26,7 +26,7 @@ SYSTEM = {
   rules:   { R10: "signals only", R11: "explicit > profile", R12: "assistive" },
   phases:  P → 1 → 4 → 6,
   stack:   ["TypeScript","HTML","GitHub","Perplexity","Discord"],
-  domain:  "pseudocryptograph-neurovisustimulative-tranprecdiag",
+  domain:  "pseudocryptograph-neurovisustimulative biotech engineering",
   state:   ∞
 }
 ```
